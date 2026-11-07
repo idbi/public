@@ -1,2 +1,3 @@
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIIT4Bj4/eYu8h7nXIeAyoSON7GVrOX87Xk1KlPc/Cqm nick.aguilar@idbi.pe
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJcqnNzLN70+iVe8vwiE4a83inIgf64ISjzBPBx5W8i6 alvaro@idbi.pe
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAwQq1x53fz7bqO5Nbjlqrx6svgxnYBalteANxY7m4Iq infra@idbi.pe recover-agent
